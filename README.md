@@ -2,7 +2,7 @@
 
 **`Aspirante em desenvolvimento`**
 
-Me chamo Luiz Gustavo, tenho 24 nos e sou natural de Tangara da Serra, Mato Grosso. Concluí o ensino médio no IFMT-TGA, com curso técnico em suporte e manutenção em informatica. Atualmente estou cursando engenharia da computação. 
+Me chamo Luiz Gustavo, tenho 24 anos e sou natural de Tangará da Serra, Mato Grosso. Concluí o ensino médio no IFMT-TGA, com curso técnico em Manutenção e Suporte em Informática. Atualmente estou cursando engenharia da computação.
 
   - 🔭 Em busca de aprendizado 
 </p>
