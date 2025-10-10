@@ -31,7 +31,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9zdTB3ZmhodXgwNTg5MHJ5MWdoZzVvbXp4a3U1aXJvbzRyMXY0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iegwoAJoMBa1xLr6De/giphy.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
