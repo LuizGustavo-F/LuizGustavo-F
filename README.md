@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">🧌</h1></summary>
+    <summary><h1 style="display: inline-block">Hello Word</h1></summary>
 </div>
 
 <!-- Presentation -->
@@ -10,7 +10,7 @@
   
   - ⚙️ Estudante de Eng. da computação
 
-  - 🔭 Em busca de uma primeira oportunidade, aprendizado, que seja
+  - 🔭 Em busca de uma primeira oportunidade, aprendizado, 
 </p>
 
 <!-- Dropdown -->
@@ -30,6 +30,7 @@
 <!-- Portfolio -->
 
 <!-- GIF -->
+em algum lugar tentanto ser algo
 <p align="left">
   <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9zdTB3ZmhodXgwNTg5MHJ5MWdoZzVvbXp4a3U1aXJvbzRyMXY0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iegwoAJoMBa1xLr6De/giphy.gif" alt="Imagem">
 </p>
