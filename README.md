@@ -1,16 +1,14 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello Word</h1></summary>
-</div>
+# 👩🏻‍💻 Luiz Gustavo
 
-<!-- Presentation -->
+**`Aspirante em desenvolvimento`**
+Me chamo Luiz Gustavo, tenho 24 nos e sou natural de Tangara da Serra, Mato Grosso. Concluí o ensino médio no IFMT-TGA, com curso técnico em suporte e manutenção em informatica. Atualmente estou cursando engenharia da computação. 
+Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube.
 <p>
   Me chamo Luiz🤠
   
   - ⚙️ Estudante de Eng. da computação
 
-  - 🔭 Em busca de uma primeira oportunidade, aprendizado, 
+  - 🔭 Em busca de aprendizado 
 </p>
 
 <!-- Dropdown -->
@@ -30,10 +28,7 @@
 <!-- Portfolio -->
 
 <!-- GIF -->
-*em algum lugar tentanto ser algo*
-<p align="left">
-  <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9zdTB3ZmhodXgwNTg5MHJ5MWdoZzVvbXp4a3U1aXJvbzRyMXY0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iegwoAJoMBa1xLr6De/giphy.gif" alt="Imagem">
-</p>
+
 
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
@@ -60,3 +55,9 @@
     <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
     <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </div>
+
+<p align="center">
+  <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9zdTB3ZmhodXgwNTg5MHJ5MWdoZzVvbXp4a3U1aXJvbzRyMXY0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iegwoAJoMBa1xLr6De/giphy.gif" alt="Imagem">
+  
+  *em algum lugar tentanto ser algo*
+</p>
