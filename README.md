@@ -2,9 +2,6 @@
 
 **`Aspirante em desenvolvimento`**
 Me chamo Luiz Gustavo, tenho 24 nos e sou natural de Tangara da Serra, Mato Grosso. Concluí o ensino médio no IFMT-TGA, com curso técnico em suporte e manutenção em informatica. Atualmente estou cursando engenharia da computação. 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube.
-<p>
-  Me chamo Luiz🤠
   
   - ⚙️ Estudante de Eng. da computação
 
@@ -13,7 +10,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Sobre mim</summary>
 
 </details>
 
