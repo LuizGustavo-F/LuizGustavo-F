@@ -55,5 +55,4 @@ Me chamo Luiz Gustavo, tenho 24 anos e sou natural de Tangará da Serra, Mato Gr
 <p align="center">
   <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9zdTB3ZmhodXgwNTg5MHJ5MWdoZzVvbXp4a3U1aXJvbzRyMXY0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iegwoAJoMBa1xLr6De/giphy.gif" alt="Imagem">
   
-  *em algum lugar tentanto ser algo*
 </p>
