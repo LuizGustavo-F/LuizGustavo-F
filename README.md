@@ -2,7 +2,6 @@
 
 # 👩🏻‍💻 Luiz Gustavo
 
-**`Aspirante em desenvolvimento`**
 
 Sou Luiz Gustavo, tenho 24 anos e sou natural de Tangará da Serra, Mato Grosso. Concluí o ensino médio no IFMT-TGA, com curso técnico em Manutenção e Suporte em Informática. Atualmente estou cursando engenharia da computação.
 
@@ -72,7 +71,6 @@ Sou Luiz Gustavo, tenho 24 anos e sou natural de Tangará da Serra, Mato Grosso.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LuizGustavo-F/LuizGustavo-F/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LuizGustavo-F.LuizGustavo-F&left_color=0D1117&right_color=58A6FF" />
