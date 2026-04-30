@@ -79,9 +79,9 @@ Tenho formação técnica em Manutenção e Suporte em Informática e foco atual
 
 ## 🧠 Atualmente estudando
 
-- Redes avançadas e infraestrutura  
-- Arquitetura de sistemas distribuídos  
-- Compiladores e linguagens formais  
+🔹 Redes avançadas e infraestrutura  
+🔹 Arquitetura de sistemas distribuídos  
+🔹 Compiladores e linguagens formais  
 
 ---
 
