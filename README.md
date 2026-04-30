@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Luiz+Gustavo;Engenharia+da+Computação;Foco+em+Redes+e+Sistemas" />
-
 <br><br>
 
 # 👩🏻‍💻 Luiz Gustavo
