@@ -1,79 +1,92 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Luiz+Gustavo;Engenharia+da+Computação;Foco+em+Redes+e+Sistemas" />
+
+<br><br>
+
 # 👩🏻‍💻 Luiz Gustavo
 
+Sou estudante de Engenharia da Computação (9º semestre) no IFMT.  
+Tenho formação técnica em Manutenção e Suporte em Informática e foco atual em redes, infraestrutura e desenvolvimento de sistemas.
 
-Sou Luiz Gustavo, tenho 24 anos e sou natural de Tangará da Serra, Mato Grosso. Concluí o ensino médio no IFMT-TGA, com curso técnico em Manutenção e Suporte em Informática. Atualmente estou cursando engenharia da computação.
-
-   🔭 Em busca de aprendizado 
-
-<details>
-  <summary>👨‍💻 Sobre mim</summary>
-  </details>
+🔭 Em constante evolução técnica  
 
 <br>
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LuizGustavo-bv4gh)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizgustavof.carvalho/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo-b02864385/)
+<a href="https://www.youtube.com/@LuizGustavo-bv4gh">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+<a href="https://www.instagram.com/luizgustavof.carvalho/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/luiz-gustavo-b02864385/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-<br>
+<br><br>
 
-<!-- 
+---
 
-<h2 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=300&lines=Github+Stats" />
-</h2>
+## 🧠 Tech Stack
 
-<!-- <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=LuizGustavo-F&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile-ui.vercel.app/api/github-stats?username=LuizGustavo-F&screen_effect=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23313638FF">
-  <img alt="github stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=LuizGustavo-F&screen_effect=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23313638FF">
-</picture> -->
+### 💻 Linguagens
+<p>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+</p>
 
-<!--
-<div align="center">
-  <img src="https://github-readme-stats-t3xv.vercel.app/api?username=LuizGustavo-F&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" height="150" />
+### ⚙️ Ferramentas
+<p>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+</p>
 
-  <img src="https://github-readme-stats-t3xv.vercel.app/api/top-langs/?username=LuizGustavo-F&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117" height="150" />
-</div>
--->
+### 📚 Bibliotecas
+<p>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+  <img height="45" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
+  <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+</p>
 
+---
 
-<div>
-  <h3>Programming Languages</h3>
-  <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-<div>
-  <h3>Tools & Frameworks</h3>
-  <img alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-
-</div>
-  
-<div>
-  <h3>Libraries</h3>
-  <img alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img alt="Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
-  <img alt="Seaborn" height="40" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-  <img alt="Scikit-learn" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-</div>
-
-<br>
-
-</h2>
-
-<br clear="both">
-
+## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LuizGustavo-F.LuizGustavo-F&left_color=0D1117&right_color=58A6FF" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LuizGustavo-F&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGustavo-F&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=LuizGustavo-F&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+---
+
+## 🧩 Projetos em destaque
+
+🔹 Desenvolvimento de compilador funcional (LL(1))  
+🔹 Projetos embarcados com ESP32 (PWM, sensores, Bluetooth)  
+🔹 Infraestrutura e redes (VLAN, switching, cloud privada)  
+🔹 Aplicações mobile com Flutter  
+
+---
+
+## 🧠 Atualmente estudando
+
+- Redes avançadas e infraestrutura  
+- Arquitetura de sistemas distribuídos  
+- Compiladores e linguagens formais  
+
+---
+
+<br>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=LuizGustavo-F.LuizGustavo-F&left_color=0D1117&right_color=58A6FF"/>
 
 </div>
