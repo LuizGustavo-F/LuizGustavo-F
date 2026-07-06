@@ -25,7 +25,7 @@ Tenho formação técnica em Manutenção e Suporte em Informática e foco atual
 
 ---
 
-## 🧠 Tech Stack
+## Ferramentas que já utilizei
 
 ### 💻 Linguagens
 <p>
@@ -52,39 +52,3 @@ Tenho formação técnica em Manutenção e Suporte em Informática e foco atual
 </p>
 
 ---
-
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LuizGustavo-F&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGustavo-F&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=LuizGustavo-F&theme=tokyonight&hide_border=true&background=0D1117"/>
-
----
-
-## 🧩 Projetos em destaque
-
-🔹 Desenvolvimento de compilador funcional (LL(1))  
-🔹 Projetos embarcados com ESP32 (PWM, sensores, Bluetooth)  
-🔹 Infraestrutura e redes (VLAN, switching, cloud privada)  
-🔹 Aplicações mobile com Flutter  
-
----
-
-## 🧠 Atualmente estudando
-
-🔹 Redes avançadas e infraestrutura  
-🔹 Arquitetura de sistemas distribuídos  
-🔹 Compiladores e linguagens formais  
-
----
-
-<br>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=LuizGustavo-F.LuizGustavo-F&left_color=0D1117&right_color=58A6FF"/>
-
-</div>
