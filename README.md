@@ -5,7 +5,7 @@
 Sou estudante de Engenharia da Computação (10º semestre) no IFMT.  
 Tenho formação técnica em Manutenção e Suporte em Informática e foco atual em redes, infraestrutura e desenvolvimento de sistemas.
 
-🔭 Em constante evolução técnica  
+Em constante evolução técnica  
 
 <br>
 
@@ -25,7 +25,7 @@ Tenho formação técnica em Manutenção e Suporte em Informática e foco atual
 
 ## Ferramentas que já utilizei
 
-### 💻 Linguagens
+### Linguagens
 <p>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -33,7 +33,7 @@ Tenho formação técnica em Manutenção e Suporte em Informática e foco atual
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </p>
 
-### ⚙️ Ferramentas
+### Ferramentas
 <p>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
@@ -41,7 +41,7 @@ Tenho formação técnica em Manutenção e Suporte em Informática e foco atual
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
 </p>
 
-### 📚 Bibliotecas
+### Bibliotecas
 <p>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
