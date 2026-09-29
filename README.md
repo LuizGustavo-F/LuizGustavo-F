@@ -2,8 +2,6 @@
 
 <br><br>
 
-# 👩🏻‍💻 Luiz Gustavo
-
 Sou estudante de Engenharia da Computação (10º semestre) no IFMT.  
 Tenho formação técnica em Manutenção e Suporte em Informática e foco atual em redes, infraestrutura e desenvolvimento de sistemas.
 
